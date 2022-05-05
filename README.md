@@ -1,2 +1,1 @@
-# The-Gospel
-The Gospel according to Code
+# The Gospel according to Code
